@@ -33,30 +33,45 @@
 <body>
 
     <p style="font-size:30px"><b>Agricultural  Search</b></p>
-    
-    <a href="https://www.google.com/search?q=rice+crop&rlz=1C1RXQR_enIN1029IN1029&oq=rice+crop&aqs=chrome.0.69i59j0i512j0i67i650j0i512l5j0i67i650j0i512.2931j0j15&sourceid=chrome&ie=UTF-8">
+    <h1>RICE CROP</h1>
+    <a href="https://en.wikipedia.org/wiki/Rice_production_in_India#:~:text=Rice%20is%20the%20basic%20food,a%20kharif%20crop%20in%20India.">
         
 <img style="border:5px solid black;"src="C:\Users\User\Pictures\rice crop.jpg"width="300" height="400"><br>
+<br>
 
-    <a href="https://www.google.com/search?q=wheat+crop+&bih=526&biw=1093&rlz=1C1RXQR_enIN1029IN1029&hl=en&sxsrf=APwXEdffn7ccIgWcE2Lesx6_CBA0YtO86w%3A1682952442356&ei=-tBPZJOuFdjh4-EPsdmW-A0&ved=0ahUKEwiTk4C0rtT-AhXY8DgGHbGsBd8Q4dUDCA8&uact=5&oq=wheat+crop+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICAAQigUQkQIyCAgAEIoFEJECMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6DwgAEIoFEOoCELQCEEMYAToSCC4QigUQyAMQ6gIQtAIQQxgCOgQIIxAnOgcIIxCKBRAnOgcIABCKBRBDOgoILhCKBRDUAhBDOgsIABCABBCxAxCDAToICAAQgAQQsQM6DQgAEIAEELEDEIMBEAo6CggAEIoFELEDEEM6CggAEIAEEBQQhwJKBAhBGABQrgNYgBNgtxdoAXABeACAAY8BiAG8CZIBAzMuOJgBAKABAbABE8ABAdoBBggBEAEYAdoBBggCEAEYCA&sclient=gws-wiz-serp">
+
+<h1>WHEAT CROP</h1>
+    <a href="https://farmer.gov.in/m_cropstaticswheat.aspx">
+
 <img style="border:5px solid black;" src="C:\Users\User\Pictures\wheat crop.jpg"width="300" height="400"><br>
 
-<a href="https://www.google.com/search?q=plough+machine&rlz=1C1RXQR_enIN1029IN1029&sxsrf=APwXEddZyAZzM5zILryIQAE08jfsOkGdzg%3A1682961070621&ei=rvJPZNrCJZmu2roP57ijgAQ&ved=0ahUKEwja0aPGztT-AhUZl1YBHWfcCEAQ4dUDCA8&uact=5&oq=plough+machine&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCMQigUQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAWEB46CggAEEcQ1gQQsAM6BwgjEOoCECc6EQgAEIoFEOoCELQCEAoQQxgBOg8IABCKBRDqAhC0AhBDGAE6CAgAEIoFEJECOgsILhCDARCxAxCKBToLCAAQgAQQsQMQgwE6CwguEIAEELEDEIMBOgUILhCABDoHCAAQigUQQzoICAAQgAQQsQM6CggAEIoFELEDEEM6CggAEIAEEBQQhwJKBAhBGABQhqMsWOC3LGC6vixoA3ABeACAAXmIAckLkgEDNS45mAEAoAEBsAEUyAEIwAEB2gEGCAEQARgB&sclient=gws-wiz-serp">
+<br>
+
+<h1>PLOUGH MACHINE</h1>
+<a href="https://www.zzhuayo.com/product/mini-plough/">
     <img style="border:5px solid black;" src="C:\Users\User\Pictures\plough machine.jpg"width="300" height="400"><br>
 
- <a href="https://www.google.com/search?q=seeder+machine&rlz=1C1RXQR_enIN1029IN1029&sxsrf=APwXEddNLgKMpJI3i9J-zQadL3u3WwOf1Q%3A1682961931269&ei=C_ZPZOv8D9zN2roPibmKoAU&ved=0ahUKEwirrtXg0dT-AhXcplYBHYmcAlQQ4dUDCA8&uact=5&oq=seeder+machine&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCMQigUQJzIICAAQigUQkQIyCggAEIAEEBQQhwIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDqAhAnOg8IABCKBRDqAhC0AhBDGAE6BAgjECc6BwgAEIoFEEM6CggAEIoFELEDEEM6CgguEIoFELEDEEM6CQgAEIoFEAoQQzoHCAAQgAQQCjoNCAAQgAQQsQMQgwEQCkoECEEYAFDmBljgHGDmH2gBcAF4AIABngGIAfsLkgEENC4xMJgBAKABAbABE8ABAdoBBggBEAEYAQ&sclient=gws-wiz-serp">
+<h1>SEEDER MACHINE</h1>
+<br>
+
+ <a href="https://www.zzhuayo.com/product/mini-plough/">
     <img style="border:5px solid black;" src="C:\Users\User\Pictures\seeder machine.jpg"width="300" height="400"><br>
 
-<a href="https://www.google.com/search?q=fertilizer+farm&rlz=1C1RXQR_enIN1029IN1029&sxsrf=APwXEdfc4m3shHYhb7onga3MWyVegLuzbQ%3A1682962102264&ei=tvZPZPnQD9ux2roP-M6FgA4&oq=fer&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcIIxCKBRAnMgQIIxAnMggIABCKBRCRAjIHCAAQigUQQzIICAAQigUQkQIyBwgAEIoFEEMyCggAEIoFELEDEEMyBwgAEIoFEEMyCggAEIAEEBQQhwIyCAgAEIAEELEDOgcIIxDqAhAnOhEIABCKBRDqAhC0AhAKEEMYAToPCAAQigUQ6gIQtAIQQxgBOhEILhCABBCxAxCDARDHARDRAzoRCC4QgwEQxwEQsQMQ0QMQgAQ6BQguEIAEOhAILhCKBRCxAxDHARDRAxBDOgUIABCABDoOCC4QgAQQsQMQxwEQ0QNKBAhBGABQyQFY4gNgrBFoAXABeACAAY4BiAHlApIBAzAuM5gBAKABAbABFMABAdoBBggBEAEYAQ&sclient=gws-wiz-serp">
+<h1> FERTILIZER FARM</h1>
+<br>
+
+<a href="https://en.wikipedia.org/wiki/Fertilizer">
     <img style="border:5px solid black;" src="C:\Users\User\Pictures/fertilizer farm.jpg"width="300" height="400"><br>
 </a>       
 </body>
 </html>
 ## OUTPUT
-![1](https://user-images.githubusercontent.com/127816320/235501538-3fdda9de-929f-4c1a-9fac-511f541c0888.png)
-![2](https://user-images.githubusercontent.com/127816320/235501554-ca863ec6-ee26-4304-adbf-daa6777ebcc9.png)
-![3](https://user-images.githubusercontent.com/127816320/235501576-8152b448-1e93-44a0-b031-034a0f7e1a43.png)
-![4](https://user-images.githubusercontent.com/127816320/235501589-15822387-ba41-48a8-adb5-f305ab9ec0eb.png)
+
+
+![1](https://user-images.githubusercontent.com/127816320/235507790-d38720bd-229d-402a-991a-d357f1cf7be8.png)
+![2](https://user-images.githubusercontent.com/127816320/235507795-c837b85d-dc87-49a7-9476-c25595592a1a.png)
+![3](https://user-images.githubusercontent.com/127816320/235507781-c132aea7-7d65-4148-bc7c-534853bf5ec3.png)
+![4](https://user-images.githubusercontent.com/127816320/235507786-982e8017-0041-478d-b75c-49410dda0914.png)
 
 ## RESULT
  Images as hyperlinks is implemented successfully.

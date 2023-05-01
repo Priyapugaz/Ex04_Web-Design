@@ -33,31 +33,29 @@
 <body>
 
     <p style="font-size:30px"><b>Agricultural  Search</b></p>
-    <h1>RICE CROP</h1>
+  
     <a href="https://en.wikipedia.org/wiki/Rice_production_in_India#:~:text=Rice%20is%20the%20basic%20food,a%20kharif%20crop%20in%20India.">
         
 <img style="border:5px solid black;"src="C:\Users\User\Pictures\rice crop.jpg"width="300" height="400"><br>
 <br>
 
-
-<h1>WHEAT CROP</h1>
     <a href="https://farmer.gov.in/m_cropstaticswheat.aspx">
 
 <img style="border:5px solid black;" src="C:\Users\User\Pictures\wheat crop.jpg"width="300" height="400"><br>
 
 <br>
 
-<h1>PLOUGH MACHINE</h1>
+
 <a href="https://www.zzhuayo.com/product/mini-plough/">
     <img style="border:5px solid black;" src="C:\Users\User\Pictures\plough machine.jpg"width="300" height="400"><br>
 
-<h1>SEEDER MACHINE</h1>
+
 <br>
 
  <a href="https://www.zzhuayo.com/product/mini-plough/">
     <img style="border:5px solid black;" src="C:\Users\User\Pictures\seeder machine.jpg"width="300" height="400"><br>
 
-<h1> FERTILIZER FARM</h1>
+
 <br>
 
 <a href="https://en.wikipedia.org/wiki/Fertilizer">

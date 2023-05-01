@@ -49,13 +49,6 @@
 
 <a href="https://www.google.com/search?q=fertilizer+farm&rlz=1C1RXQR_enIN1029IN1029&sxsrf=APwXEdfc4m3shHYhb7onga3MWyVegLuzbQ%3A1682962102264&ei=tvZPZPnQD9ux2roP-M6FgA4&oq=fer&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcIIxCKBRAnMgQIIxAnMggIABCKBRCRAjIHCAAQigUQQzIICAAQigUQkQIyBwgAEIoFEEMyCggAEIoFELEDEEMyBwgAEIoFEEMyCggAEIAEEBQQhwIyCAgAEIAEELEDOgcIIxDqAhAnOhEIABCKBRDqAhC0AhAKEEMYAToPCAAQigUQ6gIQtAIQQxgBOhEILhCABBCxAxCDARDHARDRAzoRCC4QgwEQxwEQsQMQ0QMQgAQ6BQguEIAEOhAILhCKBRCxAxDHARDRAxBDOgUIABCABDoOCC4QgAQQsQMQxwEQ0QNKBAhBGABQyQFY4gNgrBFoAXABeACAAY4BiAHlApIBAzAuM5gBAKABAbABFMABAdoBBggBEAEYAQ&sclient=gws-wiz-serp">
     <img style="border:5px solid black;" src="C:\Users\User\Pictures/fertilizer farm.jpg"width="300" height="400"><br>
-
-
-</a>  
-
-
-
-    
 </a>       
 </body>
 </html>

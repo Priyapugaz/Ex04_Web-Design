@@ -41,7 +41,7 @@
     <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/plough machine.jpg"width="300" height="400"><br>
 <br>
   <a href="https://www.zzhuayo.com/product/mini-plough/">
-    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/seeder machine.jpg"width="300" height="400"><br>
+    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/seeder machine.png"width="300" height="400"><br>
 <br>
 <a href="https://en.wikipedia.org/wiki/Fertilizer">
     <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/fertilizer farm.jpg"width="300" height="400"><br>

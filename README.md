@@ -35,16 +35,16 @@
 <img style="border:5px solid black;"src="C:\Users\Anu\Pictures/rice crop.jpg"width="300" height="400"><br>
 <br>
 <a href="https://farmer.gov.in/m_cropstaticswheat.aspx">
-<img style="border:5px solid black;" src="C:\Users\User\Pictures\wheat crop.jpg"width="300" height="400"><br>
+<img style="border:5px solid black;" src="C:\Users\Anu\Pictures/wheat crop.jpg"width="300" height="400"><br>
 <br>
 <a href="https://www.zzhuayo.com/product/mini-plough/">
-    <img style="border:5px solid black;" src="C:\Users\User\Pictures\plough machine.jpg"width="300" height="400"><br>
+    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/plough machine.jpg"width="300" height="400"><br>
 <br>
   <a href="https://www.zzhuayo.com/product/mini-plough/">
-    <img style="border:5px solid black;" src="C:\Users\User\Pictures\seeder machine.jpg"width="300" height="400"><br>
+    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/seeder machine.jpg"width="300" height="400"><br>
 <br>
 <a href="https://en.wikipedia.org/wiki/Fertilizer">
-    <img style="border:5px solid black;" src="C:\Users\User\Pictures/fertilizer farm.jpg"width="300" height="400"><br>
+    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/fertilizer farm.jpg"width="300" height="400"><br>
 </a>       
 </body>
 </html>

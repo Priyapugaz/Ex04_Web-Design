@@ -26,6 +26,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
 </head>
@@ -48,9 +49,9 @@
 </a>       
 </body>
 </html>
+```
+
 ## OUTPUT
-
-
 ![1](https://user-images.githubusercontent.com/127816320/235507790-d38720bd-229d-402a-991a-d357f1cf7be8.png)
 ![2](https://user-images.githubusercontent.com/127816320/235507795-c837b85d-dc87-49a7-9476-c25595592a1a.png)
 ![3](https://user-images.githubusercontent.com/127816320/235507781-c132aea7-7d65-4148-bc7c-534853bf5ec3.png)

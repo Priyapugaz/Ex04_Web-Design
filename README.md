@@ -32,16 +32,16 @@
 <body>
 <p style="font-size:30px"><b>Agricultural  Search</b></p>
 <a href="https://en.wikipedia.org/wiki/Rice_production_in_India#:~:text=Rice%20is%20the%20basic%20food,a%20kharif%20crop%20in%20India.">
-<img style="border:5px solid black;"src="C:\Users\Anu\Pictures/rice crop.jpg"width="300" height="400"><br>
+<img style="border:5px solid black;"src="C:\Users\SEC\Pictures\rice crop.jpeg"width="300" height="400"><br>
 <br>
 <a href="https://farmer.gov.in/m_cropstaticswheat.aspx">
 <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/wheat crop.jpg"width="300" height="400"><br>
 <br>
 <a href="https://www.zzhuayo.com/product/mini-plough/">
-    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/plough machine.jpg"width="300" height="400"><br>
+    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/plough machine.png"width="300" height="400"><br>
 <br>
   <a href="https://www.zzhuayo.com/product/mini-plough/">
-    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/seeder machine.png"width="300" height="400"><br>
+    <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/seeder machine.jpg"width="300" height="400"><br>
 <br>
 <a href="https://en.wikipedia.org/wiki/Fertilizer">
     <img style="border:5px solid black;" src="C:\Users\Anu\Pictures/fertilizer farm.jpg"width="300" height="400"><br>
